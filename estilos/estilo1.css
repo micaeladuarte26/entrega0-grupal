@@ -1,0 +1,64 @@
+#titulo{
+    text-align: center;
+    padding: 50px;
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+h4{
+    text-align: center;
+}
+
+.secciones{
+    margin: 20px;
+    margin-bottom: 80px;
+    width: 600px;
+    height: 800px;
+    border: 2px;
+    border-color: black;
+    
+    
+}
+
+#divimagenes{ 
+    text-align: center;
+    align-content: center;
+    visibility: visible;
+    
+}
+.divIndividual{
+    display: flexbox;
+    flex-direction: row;
+}
+#general{
+    display: flex;
+    flex-direction: column;
+    
+}
+.row{
+    
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.nombres{
+    margin: auto;
+    align-items: center;
+    flex-direction: row;
+    text-align: center;
+    
+}
+.h2nombre{
+    text-align: center;
+}
+button{
+    position: fixed;
+    
+}
+#header{
+    margin-bottom: 550px;
+}
+nav{
+    visibility: visible;
+}
