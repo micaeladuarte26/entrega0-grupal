@@ -10,12 +10,14 @@ img {
 
 h1 {
     color: white;
+    font-size: 50px;
 
 }
 
 h4 {
     text-align: center;
     color: white;
+    font-size: 20px;
 }
 
 .secciones {
