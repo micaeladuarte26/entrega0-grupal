@@ -1,0 +1,9 @@
+#header {
+  background-color: rgba(8, 80, 148, 0.815);
+  font-family: 'Hurmit';
+}
+
+@font-face {
+  font-family: 'Hurmit';
+  src: url(../fonts/Hurmit\ Medium\ Nerd\ Font\ Complete.otf);
+}

@@ -1,64 +1,80 @@
-#titulo{
+#titulo {
     text-align: center;
     padding: 50px;
 }
-img{
+
+img {
     height: 150px;
     width: 150px;
 }
-h4{
-    text-align: center;
+
+h1 {
+    color: white;
+
 }
 
-.secciones{
+h4 {
+    text-align: center;
+    color: white;
+}
+
+.secciones {
     margin: 20px;
     margin-bottom: 80px;
     width: 600px;
     height: 800px;
     border: 2px;
     border-color: black;
-    
-    
+
+
 }
 
-#divimagenes{ 
+#divimagenes {
     text-align: center;
     align-content: center;
     visibility: visible;
-    
+
 }
-.divIndividual{
+
+.divIndividual {
     display: flexbox;
     flex-direction: row;
 }
-#general{
+
+#general {
     display: flex;
     flex-direction: column;
-    
+
 }
-.row{
-    
+
+.row {
+
     display: flex;
     flex-direction: row;
     text-align: center;
 }
-.nombres{
+
+.nombres {
     margin: auto;
     align-items: center;
     flex-direction: row;
     text-align: center;
-    
+
 }
-.h2nombre{
+
+.h2nombre {
     text-align: center;
 }
-button{
+
+button {
     position: fixed;
-    
+
 }
-#header{
+
+#header {
     margin-bottom: 550px;
 }
-nav{
+
+nav {
     visibility: visible;
 }
